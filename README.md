@@ -1,0 +1,2 @@
+# gitkills
+learn git clone
